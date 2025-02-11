@@ -1,6 +1,4 @@
-//Controllers -> MoviesController.cs
-
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using MoviaCatalogiAPI.Models;
 using MoviaCatalogiAPI.Repositories;
 using System.Collections.Generic;
